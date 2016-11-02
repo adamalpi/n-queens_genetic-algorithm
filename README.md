@@ -1,4 +1,4 @@
-# n-queens_genetic-algorithm
+# N Queens
 ## Synopsis
 
 This project is an assignment required for the subject *Numerical Algorithms 2* done during the 3rd yeard of my bachelor.
